@@ -1,6 +1,6 @@
 # picom-config
 My picom config for alacritty and specific applications.
-Deleted most stuff because most people will not use it and it gives a cleaner look.
+Deleted most of the stuff because most people will not use it and it gives a cleaner look.
 
 99% settings doesn't have any effect on your pc/laptop performance.
 Added performance blur, fading, rounded corners and bcakground shadow.
